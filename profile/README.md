@@ -1,1 +1,1 @@
-hi c;
+Your average devteam working on various applications. Mainly based in Europe, but we have members from all around the world.
